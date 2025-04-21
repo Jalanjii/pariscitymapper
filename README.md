@@ -2,7 +2,7 @@
 
 A citymapper-like app for Paris transportation system developed with Jean-Philipp MAMBILA.
 
-<img src="app_icon/parismap.png" alt="Description" width="500" height="500">
+<img src="app_icon/parismap.png" alt="Description" width="800" height="400">
 
 ## Setup
 
