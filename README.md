@@ -1,6 +1,6 @@
 # citymapper
 
-A citymapper-like app for Paris transportation system developed with Jean-Philipp MAMBILA.
+A citymapper-like app for Paris transportation system.
 
 <img src="app_icon/parismap.png" alt="Description" width="800" height="400">
 
