@@ -1,7 +1,7 @@
 {
   "path": "..\\data",
   "user": "postgres",
-  "database": "parisdbp",
-  "password": "Postgres26",
+  "database": "dbname",
+  "password": "password",
   "host": "localhost"
 }
