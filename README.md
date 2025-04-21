@@ -2,7 +2,7 @@
 
 A citymapper-like app for Paris transportation system developed with Jean-Philipp MAMBILA.
 
-![app screenshot](.\app_icon\parismap.png)
+<img src="app_icon/parismap.png" alt="Description" width="300" height="200">
 
 ## Setup
 
@@ -16,7 +16,3 @@ A citymapper-like app for Paris transportation system developed with Jean-Philip
 ## Data Reference 
 
 https://www.nature.com/articles/sdata201889#Tab5
-
-
-git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch ' \data\network_temporal_day.csv
-  --prune-empty --tag-name-filter cat -- --all
